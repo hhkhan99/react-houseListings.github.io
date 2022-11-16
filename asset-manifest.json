@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-houseListings.github.io/static/css/main.14b5e500.css",
+    "main.js": "/react-houseListings.github.io/static/js/main.f2489c6b.js",
+    "index.html": "/react-houseListings.github.io/index.html",
+    "main.14b5e500.css.map": "/react-houseListings.github.io/static/css/main.14b5e500.css.map",
+    "main.f2489c6b.js.map": "/react-houseListings.github.io/static/js/main.f2489c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b5e500.css",
+    "static/js/main.f2489c6b.js"
+  ]
+}
